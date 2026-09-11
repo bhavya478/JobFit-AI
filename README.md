@@ -150,4 +150,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Built with Spring Boot
 - Powered by Google Gemini AI
 - Uses Tesseract OCR for enhanced PDF processing
-- Developed by [Mohak Nagaraju](https://www.linkedin.com/in/mohaknagaraju/)
+- Developed by [Bhavya Kallur](https://www.linkedin.com/in/bhavya-ashok-k/)
