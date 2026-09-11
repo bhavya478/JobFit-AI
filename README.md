@@ -34,7 +34,7 @@ JobFit AI is a Spring Boot application that uses AI to analyze resumes against j
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Mohak-Nagaraju/AI-Resume-Analyzer.git
+git clone https://github.com/bhavya478/JobFit-AI.git
 cd AI-Resume-Analyzer
 ```
 
